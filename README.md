@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/PhotoCraft-AppImage)](https://github.com/pkgforge-dev/PhotoCraft-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/storytold.png" width="128" />
+  <img src="https://raw.githubusercontent.com/storytold/photocraft/5824e3afebf1faba42546f3686aa2e5c7b5aabcf/assets/app-icon/photocraft.svg" width="128" />
 </p>
 
 
